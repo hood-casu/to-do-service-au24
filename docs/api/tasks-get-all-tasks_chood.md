@@ -4,7 +4,7 @@ layout: page
 
 # Get all tasks
 
-This method returns an array of [`task`](task.md) objects that contain all tasks that have been registered with the service.
+This method returns an array of [`task`](task.md) objects that contain all tasks registered with the service.
 
 ## URL
 
@@ -73,4 +73,4 @@ None
 
 ## READ
 * [DELETE a task](delete-a-task_chood.md)
-* [Task Resource](../api/task.md)
+* [Task Resource](task.md)
