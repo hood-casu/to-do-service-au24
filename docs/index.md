@@ -29,6 +29,7 @@ Here are some more overview pages that explain the To-Do Service and how to get 
 
 * [Enroll your first user](tutorials/first-use-alicia.md) with the To-Do service to learn how to get started.
 * [Create your first user and task](quickstart_guide_david.md)
+* [Quickstart - Wendy](Quickstart_wuf.md)
 
 ## Tutorials
 
@@ -42,7 +43,8 @@ After your system is ready, [tutorials](./tutorials.md) such as these show you h
 
 * [Enroll a new user](tutorials/enroll-a-new-user.md)
 * [Add a new task](tutorials/add-a-new-task.md)
-* [Change the due-date of a task _(coming soon)_](#tutorials)
+* Change the due-date of a task
+    * [tutorial_sy](tutorials/tutorial_sy.md)
 * [Delete a task _(coming soon)_](#tutorials)
 
 ## API reference docs
